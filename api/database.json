@@ -41,6 +41,24 @@
       "category": "cookie",
       "ethnicity": "'murican",
       "id": 7
+    },
+    {
+      "name": "Prime Rib",
+      "category": "steak",
+      "ethnicity": "american",
+      "id": 9
+    },
+    {
+      "name": "Snow Crab Legs",
+      "category": "shellfish",
+      "ethnicity": "alaskan",
+      "id": 10
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "category": "cheese",
+      "ethnicity": "italian",
+      "id": 11
     }
   ]
 }
