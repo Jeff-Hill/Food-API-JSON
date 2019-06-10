@@ -1,6 +1,7 @@
 .foodList {
     display: flex;
-    flex-direction: row
+    flex-direction: row;
+    flex-wrap: wrap
 }
 
 div {
